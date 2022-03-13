@@ -1,0 +1,47 @@
+[
+    {
+        
+    "id": 1,
+      "iD": 1,
+      "name": "apartment",
+      "aria": "Studentski grad",
+      "location": "Sofia",
+      "img": "img"
+    },
+    {
+        
+    "id": 2,
+      "iD": 2,
+      "name": "house",
+      "aria": "Mladost",
+      "location": "Sofia",
+      "img": "img"
+    },
+    {
+        
+    "id": 3,
+      "iD": 3,
+      "name": "apartment",
+      "aria": "Dianabat",
+      "location": "Sofia",
+      "img": "img"
+    },
+    {
+        
+    "id": 4,
+      "iD": 4,
+      "name": "office",
+      "aria": "Lulin",
+      "location": "Sofia",
+      "img": "img"
+    },
+    {
+        
+    "id": 5,
+      "iD": 5,
+      "name": "shop",
+      "aria": "Boqna",
+      "location": "Sofia",
+      "img": "img"
+    }
+  ]

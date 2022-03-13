@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.alignleft {
+	float: center left;
+  font-size: 17px;
+  clear: left;
+  display: inline;
+}
+.textbox{
+  padding: 17px;
+  clear:both;
+  background: rgba(1, 162, 255, 0.952);
+  color: white;
+
+ 
+}
+.avatar{
+width: 25px;
+height: 25px;
+float: right;
+display: inline;
+}
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color:rgba(195, 233, 255, 0.952);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.Home {
+  text-align: center;
+}

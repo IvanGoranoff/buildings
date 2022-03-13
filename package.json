@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@rpldy/upload-button": "^0.18.0",
+    "@rpldy/uploady": "^0.18.0",
+    "@sentry/react": "^6.18.2",
+    "@sentry/tracing": "^6.18.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "rc-progress": "^3.2.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.0",
+    "source-map-resolve": "^0.6.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
